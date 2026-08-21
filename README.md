@@ -2,7 +2,7 @@
 
 Computer Science Student & Aspiring **Full-Stack Developer** passionate about building modern web applications and software solutions.
 
-- 🔭 **Currently learning:** Different Programming Language Such as **C**, **Java**, and **Python**.
+- 🔭 **Currently learning:** Different Programming Languages Such as **C**, **Java**, and **Python**.
 - 🎯 **Goals:** Build impactful real-world projects and contribute to open-source software
 - 💬 **Ask me about:** **C**, **Java**, and core programming concepts
 - 📫 **How to reach me:** rudolfvictoria8@gmail.com
