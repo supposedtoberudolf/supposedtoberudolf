@@ -2,7 +2,7 @@
 
 Computer Science Student & Aspiring **Full-Stack Developer** passionate about building modern web applications and software solutions.
 
-- 🔭 **Currently learning:** Different Programming Language Such as **C**, **Java**, and **Web Development**.
+- 🔭 **Currently learning:** Different Programming Language Such as **C**, **Java**, and **Python**.
 - 🎯 **Goals:** Build impactful real-world projects and contribute to open-source software
 - 💬 **Ask me about:** C++, Python, and core programming concepts
 - 📫 **How to reach me:** rudolfvictoria8@gmail.com
@@ -39,14 +39,3 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supposedtoberudolf&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&theme=tokyonight" width="60%" />
-</p>
