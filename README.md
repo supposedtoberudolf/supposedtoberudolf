@@ -4,7 +4,7 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
 
 - 🔭 **Currently learning:** Different Programming Languages Such as **C**, **Java**, and **Python**.
 - 🎯 **Goals:** Build impactful real-world projects and contribute to open-source software
-- 💬 **Ask me about:** **C**, **Java**, and core programming concepts
+- 💬 **Ask me about:** C, Java, and core programming concepts
 - 📫 **How to reach me:** rudolfvictoria8@gmail.com
 
 ---
