@@ -45,8 +45,7 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supposedtoberudolf&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supposedtoberudolf&theme=tokyonight" />
 </p>
 
 <p align="center">
