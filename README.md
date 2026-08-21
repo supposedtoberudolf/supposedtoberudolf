@@ -1,4 +1,4 @@
-# About Me 
+# Hi , I'm Rudolf 👋
 
 Computer Science Student & Aspiring **Full-Stack Developer** passionate about building modern web applications and software solutions.
 
