@@ -1,6 +1,6 @@
 <!-- Blue Gradient Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041024,50:0a2a5e,100:1d4ed8&height=180&section=header&text=Hi%2C%20I'm%20Rudolf%20Victoria&fontSize=44&fontColor=60a5fa&fontAlignY=45&desc=Computer%20Science%20Student%20%26%20Aspiring%20Full-Stack%20Developer&descAlignY=72&descSize=18&descColor=bfdbfe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041024,100:1d4ed8&height=180&section=header&text=Hi,%20I%27m%20Rudolf%20Victoria&fontSize=42&fontColor=60a5fa&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=65&descSize=16" width="100%" />
 </div>
 
 I'm Rudolf Victoria, a Computer Science student from the Philippines with a strong interest in software development and modern web applications. With a growing foundation in C, C++, Java, and Python, I enjoy exploring core programming concepts and continuously expanding my technical skills.
@@ -38,11 +38,9 @@ I focus on building practical, real-world projects and aim to contribute to open
 
 ### Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0&icon_color=60a5fa&ring_color=3b82f6" width="100%" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0&icon_color=60a5fa&ring_color=3b82f6" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" alt="Most Used Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" width="100%" alt="Most Used Languages" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=supposedtoberudolf&background=071324&border=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" width="100%" alt="GitHub Streak" />
+  <img height="155" src="https://streak-stats.demolab.com/?user=supposedtoberudolf&background=071324&border_color=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 </p>
