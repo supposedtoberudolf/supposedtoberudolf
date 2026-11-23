@@ -1,58 +1,48 @@
-<!-- Minimalist Header Banner -->
+<!-- Blue Gradient Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=RUDOLF%20VICTORIA&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=72&descSize=16&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041024,50:0a2a5e,100:1d4ed8&height=180&section=header&text=Hi%2C%20I'm%20Rudolf%20Victoria&fontSize=44&fontColor=60a5fa&fontAlignY=45&desc=Computer%20Science%20Student%20%26%20Aspiring%20Full-Stack%20Developer&descAlignY=72&descSize=18&descColor=bfdbfe" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+modern+web+apps+%26+software+solutions.;Exploring+C%2C+C%2B%2B%2C+Java%2C+and+Python.;Open+to+collaborations+%26+open-source+projects." alt="Typing SVG" />
-</div>
+I'm Rudolf Victoria, a Computer Science student from the Philippines with a strong interest in software development and modern web applications. With a growing foundation in C, C++, Java, and Python, I enjoy exploring core programming concepts and continuously expanding my technical skills.
 
-<br/>
+I focus on building practical, real-world projects and aim to contribute to open-source software. As a quick learner and dedicated builder, I thrive in environments where I can solve problems, learn new technologies, and collaborate with other developers.
 
-<!-- Bento-Style 2-Column Overview -->
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ Snapshot</h3>
-      <ul>
-        <li>📍 Based in the <b>Philippines</b></li>
-        <li>🎓 <b>Computer Science</b> Student</li>
-        <li>💻 Aspiring <b>Full-Stack Developer</b></li>
-        <li>💬 Ask me about <b>C, Java, & core programming concepts</b></li>
-        <li>🎯 Goal: <b>Build impactful real-world & open-source projects</b></li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <p><b>Languages</b></p>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" alt="Languages" />
-      <br/><br/>
-      <p><b>Tools & Version Control</b></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=supposedtoberudolf&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="95%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- Compact Analytics Grid -->
-<div align="center">
-  <h3>📊 Analytics</h3>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="155em" src="https://streak-stats.demolab.com/?user=supposedtoberudolf&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Minimalist Socials Footer -->
-<div align="center">
+<!-- Socials, Profile Views & Followers -->
+<p align="left">
+  <a href="mailto:rudolfvictoria8@gmail.com">
+    <img src="https://img.shields.io/badge/rudolfvictoria8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/supposedtoberudolf" target="_blank">
+    <img src="https://img.shields.io/badge/%40supposedtoberudolf-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://facebook.com/everyonehatesrudolf" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/everyonehatesrudolf-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=supposedtoberudolf&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/supposedtoberudolf?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+</p>
+
+### Core Tech Stacks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" alt="Core Tech Stacks" />
+  </a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+### Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0&icon_color=60a5fa&ring_color=3b82f6" width="100%" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" width="100%" alt="Most Used Languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=supposedtoberudolf&background=071324&border=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" width="100%" alt="GitHub Streak" />
+</p>
