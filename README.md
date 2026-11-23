@@ -21,11 +21,9 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
   </a>
 </p>
 
-### Tools
+### 🧰 Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Tools" /></a>&nbsp;&nbsp;<img src="./antigravity.png" height="48" width="48" alt="Antigravity IDE" />
 </p>
 
 ### Statistics
