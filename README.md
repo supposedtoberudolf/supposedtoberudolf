@@ -38,9 +38,9 @@ I focus on building practical, real-world projects and aim to contribute to open
 
 ### Statistics
 <p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0&icon_color=60a5fa&ring_color=3b82f6" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0&icon_color=60a5fa&ring_color=3b82f6" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=supposedtoberudolf&background=071324&border=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img height="155" src="https://streak-stats.demolab.com/?user=supposedtoberudolf&background=071324&border_color=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supposedtoberudolf&layout=compact&bg_color=071324&border_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" alt="Most Used Languages" />
 </p>
