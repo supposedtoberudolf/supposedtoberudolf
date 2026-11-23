@@ -3,19 +3,17 @@
 
 I'm Rudolf Victoria, a Computer Science student from the Philippines with a strong interest in software development and modern web applications. With a growing foundation in C, C++, Java, and Python, I enjoy exploring core programming concepts and continuously expanding my technical skills.
 
-<!-- Socials, Profile Views & Followers -->
+### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:rudolfvictoria8@gmail.com">
-    <img src="https://img.shields.io/badge/rudolfvictoria8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://facebook.com/everyonehatesrudolf" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/supposedtoberudolf" target="_blank">
-    <img src="https://img.shields.io/badge/%40supposedtoberudolf-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/everyonehatesrudolf" target="_blank">
-    <img src="https://img.shields.io/badge/everyonehatesrudolf-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="mailto:rudolfvictoria8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=supposedtoberudolf&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/supposedtoberudolf?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ### Core Tech Stacks
