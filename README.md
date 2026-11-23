@@ -1,11 +1,7 @@
 <!-- Blue Gradient Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041024,100:1d4ed8&height=180&section=header&text=Hi,%20I%27m%20Rudolf%20Victoria&fontSize=42&fontColor=60a5fa&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=65&descSize=16" width="100%" />
-</div>
+# Hi, I'm Rudolf 👋
 
 I'm Rudolf Victoria, a Computer Science student from the Philippines with a strong interest in software development and modern web applications. With a growing foundation in C, C++, Java, and Python, I enjoy exploring core programming concepts and continuously expanding my technical skills.
-
-I focus on building practical, real-world projects and aim to contribute to open-source software. As a quick learner and dedicated builder, I thrive in environments where I can solve problems, learn new technologies, and collaborate with other developers.
 
 <!-- Socials, Profile Views & Followers -->
 <p align="left">
