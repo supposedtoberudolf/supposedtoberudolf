@@ -1,45 +1,58 @@
-<!-- Animated Wave Header -->
+<!-- Minimalist Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:2ac3de&height=200&section=header&text=Rudolf%20Victoria&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=RUDOLF%20VICTORIA&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=72&descSize=16&descColor=8b949e" width="100%" />
 </div>
 
-<!-- Animated Typing Intro -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rudolf!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;Building+Impactful+Real-World+Projects+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+modern+web+apps+%26+software+solutions.;Exploring+C%2C+C%2B%2B%2C+Java%2C+and+Python.;Open+to+collaborations+%26+open-source+projects." alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Socials & Profile Views -->
+<!-- Bento-Style 2-Column Overview -->
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ Snapshot</h3>
+      <ul>
+        <li>📍 Based in the <b>Philippines</b></li>
+        <li>🎓 <b>Computer Science</b> Student</li>
+        <li>💻 Aspiring <b>Full-Stack Developer</b></li>
+        <li>💬 Ask me about <b>C, Java, & core programming concepts</b></li>
+        <li>🎯 Goal: <b>Build impactful real-world & open-source projects</b></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <p><b>Languages</b></p>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark" alt="Languages" />
+      <br/><br/>
+      <p><b>Tools & Version Control</b></p>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Trophies -->
 <div align="center">
-  <a href="https://facebook.com/everyonehatesrudolf" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/supposedtoberudolf" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:rudolfvictoria8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=supposedtoberudolf&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=supposedtoberudolf&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="95%" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- Compact Analytics Grid -->
+<div align="center">
+  <h3>📊 Analytics</h3>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=supposedtoberudolf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+  <img height="155em" src="https://streak-stats.demolab.com/?user=supposedtoberudolf&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
-```typescript
-const rudolf = {
-  pronouns: "he/him",
-  location: "Philippines 🇵🇭",
-  role: "Computer Science Student & Aspiring Full-Stack Developer",
-  currentlyLearning: ["C", "C++", "Java", "Python", "Modern Web Dev"],
-  askMeAbout: ["C", "Java", "Core Programming Concepts"],
-  goals: [
-    "Build impactful real-world projects",
-    "Contribute to open-source software"
-  ],
-  contact: "rudolfvictoria8@gmail.com"
-};
+<br/>
+
+<!-- Minimalist Socials Footer -->
+<div align="center">
+  <a href="https://facebook.com/everyonehatesrudolf" target="_blank">
+    <img src="
