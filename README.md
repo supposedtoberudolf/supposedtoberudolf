@@ -1,7 +1,11 @@
 <!-- Blue Gradient Header Banner -->
 # Hi, I'm Rudolf 👋
 
-I'm Rudolf Victoria, a Computer Science student from the Philippines with a strong interest in software development and modern web applications. With a growing foundation in C, C++, Java, and Python, I enjoy exploring core programming concepts and continuously expanding my technical skills.
+Computer Science Student & Aspiring **Full-Stack Developer** passionate about building modern web applications and software solutions.
+
+- 🔭 **Currently learning:** Different Programming Languages such as **C**, **Java**, and **Python**.
+- 🎯 **Goals:** Build impactful real-world projects and contribute to open-source software
+- 💬 **Ask me about:** C, Java, and core programming concepts
 
 ### 🌐 Connect with Me
 <p align="left">
