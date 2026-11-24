@@ -30,8 +30,8 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
 <p align="left">
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e0209fe8-1262-4314-9fd2-76d1881c595b" width="44" height="44" alt="Antigravity AI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/chatgpt.png" width="44" height="44" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e0209fe8-1262-4314-9fd2-76d1881c595b" width="44" height="44" alt="Antigravity AI" />
 </p>
 
 ### Statistics
