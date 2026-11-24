@@ -26,6 +26,15 @@ Computer Science Student & Aspiring **Full-Stack Developer** passionate about bu
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Tools" /></a>&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e0209fe8-1262-4314-9fd2-76d1881c595b" height="48" width="48" alt="Antigravity IDE" />
 </p>
 
+### 🤖 AI Tools
+<p align="left">
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" height="44" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e0209fe8-1262-4314-9fd2-76d1881c595b" width="44" height="44" alt="Antigravity AI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Z.ai%20(GLM)-071324?style=for-the-badge&logoColor=60a5fa" height="36" alt="Z.ai GLM" />
+</p>
+
 ### Statistics
 <table>
   <tr>
